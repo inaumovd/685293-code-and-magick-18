@@ -18,8 +18,8 @@ var TEXT_COLOR = '#000';
 var COLUMN_COORD_X = 140;
 var COLUMN_COORD_Y = 80;
 var COLUMN_MAX_HEIGHT = 150;
-var COLUMN_WIDTH = 40;
 var COLUMNS_GAP = 100;
+var COLUMN_WIDTH = 40;
 var PLAYER_COLUMN_COLOR = 'rgba(255, 0, 0, 1)';
 
 var renderNames = function (ctx, names) {
